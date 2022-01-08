@@ -1,0 +1,10 @@
+TEA1,TRÀ ĐÀO,16000,Đại lý trái cây,HCM
+TEA2,TRÀ SỮA,22000,Đại lý trái cây,HCM
+FRU1,NƯỚC ÉP CAM,16000,Đại lý trái cây,HCM
+FRU2,NƯỚC ÉP DƯA,16000,Đại lý trái cây,HCM
+FRU3,SINH TỐ BƠ,16000,Đại lý trái cây,HCM
+CFE1,CÀ PHÊ ĐÁ,15000,Đại lý CÀ PHÊ,HCM
+CFE2,CÀ PHÊ SỮA,16000,Đại lý CÀ PHÊ,HCM
+CFE3,CÀ PHÊ NÓNG,15000,Đại lý CÀ PHÊ,HCM
+CFE4,BẠC XỈU,15000,Đại lý CÀ PHÊ,HCM
+CFE5,CAPUCHINO,22000,Đại lý CÀ PHÊ,HCM

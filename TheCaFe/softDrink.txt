@@ -1,0 +1,8 @@
+SD1,cocacola,12000,12,3,2020,Đại lý,HCM
+SD2,pepsi,12000,12,3,2020,Đại lý,HCM
+SD3,sting,15000,12,3,2020,Đại lý,HCM
+SD4,ô long,15000,12,3,2020,Đại lý,HCM
+SD5,trà xanh,12000,12,3,2020,Đại lý,HCM
+SD7,livovitan,15000,12,3,2020,Đại lý,HCM
+SD8,Dr Thanh,12000,12,3,2020,Đại lý,HCM
+SD9,BÒ HÚC,18000,12,3,2020,Đại lý,HCM

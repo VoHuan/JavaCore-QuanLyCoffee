@@ -1,0 +1,4 @@
+CA1,BÁNH KEM,32000,Tiệm bánh,HCM
+CA2,BÁNH SU,6000,Tiệm bánh,HCM
+CA3,BÁNH BÍCH QUY,10000,Tiệm bánh,HCM
+CA4,BÁNH TRÁNG,15000,Tiệm bánh,HCM
